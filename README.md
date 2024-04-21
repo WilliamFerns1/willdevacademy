@@ -1,6 +1,6 @@
 # willDevAcademy
 
-![Discord Shield](https://img.shields.io/discord/1231569096911360052?label=Discord&logo=discord&logoColor=white&style=for-the-badge)<br />
+[![Discord Shield](https://img.shields.io/discord/1231569096911360052?label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/https://discord.gg/puKwuTKPmn)<br />
 ![Learn](https://img.shields.io/badge/Learn-Full_Stack-blue)
 ![Learn](https://img.shields.io/badge/Educational-Platform-orange)
 ![HTML&CSS](https://img.shields.io/badge/HTML-CSS-red)
