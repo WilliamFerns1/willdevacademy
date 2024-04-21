@@ -1,2 +1,3 @@
-# willdevacademy
-Educational coding platform to learn full-stack web development, from absolute scratch.
+# willDevAcademy
+
+The all-in-one educational platform for learning full-stack web development. You will not only learn, but connect with our community.
