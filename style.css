@@ -78,10 +78,11 @@ nav, .nav-buttons {
 .hero {
   display: flex;
   flex-direction: column;
-  gap: 5px;
+  gap: 10px;
   align-items: center;
   justify-content: center;
   min-height: 80vh;
+  text-align: center;
 }
 
 .title-container {
@@ -89,9 +90,9 @@ nav, .nav-buttons {
 }
 
 .hero-title {
-  font-size: 5.5rem;
-  line-height: 6rem;
-  margin-left: 10px;
+  font-size: 6rem;
+  line-height: 6.5rem;
+  margin-left: 15px;
   vertical-align: middle;
   border-right: 20px solid #fff;
   width: 100%;
@@ -100,6 +101,12 @@ nav, .nav-buttons {
   animation: 
     typing 1s steps(22),
     cursor .4s step-end infinite alternate;
+  background-image: linear-gradient(45deg, yellow, orange);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
 }
 
 @keyframes cursor {
@@ -108,4 +115,20 @@ nav, .nav-buttons {
 
 @keyframes typing {
   from { width: 0 }
+}
+
+.hero-description {
+  max-width: 550px;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.get-started-hero-btn {
+  padding: 10px 25px;
+  background-color: orangered;
+  border: none;
+  color: #fff;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-top: 15px;
 }
