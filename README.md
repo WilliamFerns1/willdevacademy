@@ -4,6 +4,30 @@
 ![Learn](https://img.shields.io/badge/Learn-Full_Stack-blue)
 ![Learn](https://img.shields.io/badge/Educational-Platform-orange)
 ![HTML&CSS](https://img.shields.io/badge/HTML-CSS-red)
-<!-- Add a badge for the website link when I have made the landing page -->
+[![Website](https://img.shields.io/badge/Visit-Website-purple)](https://willdevacademy.vercel.app/)
 
-The all-in-one educational platform for learning full-stack web development. You will not only learn, but connect with our community.
+![image](https://github.com/WilliamFerns1/willdevacademy/assets/141557971/fda478df-e39e-4017-b938-b6ec6d933aac)
+
+The all-in-one educational platform for learning full-stack web development. You will not only learn, but connect with our community. 
+
+## Current stage:
+
+The first release will be done when all of this checkboxes are ticked off:
+
+- [ ] Landing page, completely mobile responsive
+- [ ] Built-in code editor
+- [ ] First course
+
+Check out this repo, and also my socials, to see the progress of willCodeAcademy
+
+## Contributions:
+
+Feel free to raise an issue on something you want to work on, or something that I can improve. Feel free to contribute.
+
+## License:
+
+This project is under the MIT License. Feel free to distribute anywhere.
+
+## Contact me:
+
+Feel free to contact me, by clicking on <a href="https://github.com/WilliamFerns1" target="_blank">my profile</a> and reaching out to one of the links listed there. 
