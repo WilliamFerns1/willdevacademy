@@ -1,0 +1,111 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  width: 100vw;
+  min-height: 100vh;
+  background-color: #121212;
+  color: #fff;
+  vertical-align: center;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.3rem;
+  font-weight: 600;
+  transition: 0.5s ease-in-out;
+}
+
+a:hover {
+  /* transform: scale(1.05); */
+  font-size: 1.4rem;
+  color: red;
+}
+
+p, h1, h2 {
+  width: fit-content;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 10vh;
+  vertical-align: middle;
+  height: fit-content;
+  background-color: ;
+  border-bottom: 1px solid #fff;
+  padding: 10px 55px;
+  color: #fff;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.logo img {
+  width: 40px;
+  transition: 0.5s ease-in-out;
+}
+
+.logo img:hover {
+  margin-right: 10px;
+  transform: rotate(30deg);
+}
+
+.logo h3 {
+  font-size: 1.6rem;
+}
+
+nav, .nav-buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+.hero {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: center;
+  justify-content: center;
+  min-height: 80vh;
+}
+
+.title-container {
+  display: inline-block;
+}
+
+.hero-title {
+  font-size: 5.5rem;
+  line-height: 6rem;
+  margin-left: 10px;
+  vertical-align: middle;
+  border-right: 20px solid #fff;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: 
+    typing 1s steps(22),
+    cursor .4s step-end infinite alternate;
+}
+
+@keyframes cursor {
+  50% { border-color: transparent }
+}
+
+@keyframes typing {
+  from { width: 0 }
+}
